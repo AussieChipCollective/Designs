@@ -1,0 +1,3 @@
+[submodule "SKY130A_1GHz_OTA"]
+	path = SKY130A_1GHz_OTA
+	url = https://github.com/JulianKeledjian/SKY130A_1GHz_OTA
